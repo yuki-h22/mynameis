@@ -52,3 +52,4 @@ production:
   database: mynameis_production
   username: mynameis
   password: <%= ENV['MYNAMEIS_DATABASE_PASSWORD'] %>
+
